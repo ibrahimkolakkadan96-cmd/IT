@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Enterprise IT Operations \u0026 Infrastructure",
+  "description": "Unified IT operations dashboard for branch management, asset tracking, helpdesk tickets, network monitoring, remote support, warranties, and maintenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
